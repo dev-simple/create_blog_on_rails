@@ -12,3 +12,6 @@ Style/Documentation:
 
 Style/ClassAndModuleChildren:
   Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enable: false
