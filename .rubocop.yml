@@ -1,0 +1,14 @@
+AllCops:
+  DisplayCopNames: true
+  Exclude:
+    - 'config/initializers/devise.rb'
+    - 'db/**/*'
+
+Metrics/LineLength:
+  Max: 120
+
+Style/Documentation:
+  Enabled: false
+
+Style/ClassAndModuleChildren:
+  Enabled: false
